@@ -13,7 +13,7 @@ Frame_UI asd = new Frame_UI();
 
 
     public Enter() {
-   //     setUndecorated(true);
+        setUndecorated(true);
         initComponents();
         setSize(690,380);
         setLocationRelativeTo(null);
